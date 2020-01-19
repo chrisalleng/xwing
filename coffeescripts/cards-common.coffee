@@ -5159,7 +5159,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Bomber"
             skill: 4
-            points: 37
+            points: 34
             slots: [       
                 "Talent"
                 "Torpedo"
