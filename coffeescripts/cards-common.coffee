@@ -4346,6 +4346,7 @@ exportObj.basicCardData = ->
                 "Missile"
                 "Crew"
                 "Crew"
+                "Crew"
                 "Gunner"
                 "Illicit"
                 "Modification"
@@ -4364,6 +4365,7 @@ exportObj.basicCardData = ->
                 "Talent"
                 "Cannon"
                 "Missile"
+                "Crew"
                 "Crew"
                 "Crew"
                 "Gunner"
@@ -4386,6 +4388,7 @@ exportObj.basicCardData = ->
                 "Missile"
                 "Crew"
                 "Crew"
+                "Crew"
                 "Gunner"
                 "Illicit"
                 "Modification"
@@ -4402,6 +4405,7 @@ exportObj.basicCardData = ->
             slots: [
                 "Cannon"
                 "Missile"
+                "Crew"
                 "Crew"
                 "Crew"
                 "Gunner"
@@ -5159,7 +5163,7 @@ exportObj.basicCardData = ->
             faction: "Galactic Empire"
             ship: "TIE Bomber"
             skill: 4
-            points: 34
+            points: 3
             slots: [       
                 "Talent"
                 "Torpedo"
